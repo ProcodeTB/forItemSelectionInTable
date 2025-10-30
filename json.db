@@ -7,7 +7,7 @@
                 "id": "id_1_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "idHeader2": "Transparent",
+                "selectColor": "Transparent",
                 "name": "",
                 "level_3": [
                     {
@@ -31,7 +31,7 @@
                 "id": "id_1_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "idHeader2": "Red Devil",
+                "selectColor": "Red Devil",
                 "name": "Yellow",
                 "level_3": [
                     {
@@ -55,7 +55,7 @@
                 "id": "id_1_3",
                 "image": "3",
                 "idHeader1": "",
-                "idHeader2": null,
+                "selectColor": null,
                 "name": "Morrison Valenzuela",
                 "level_3": [
                     {
@@ -85,7 +85,7 @@
                 "id": "id_2_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "idHeader2": "Blue",
+                "selectColor": "Blue",
                 "name": "",
                 "level_3": [
                     {
@@ -109,7 +109,7 @@
                 "id": "id_2_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "idHeader2": "",
+                "selectColor": "",
                 "name": "Hillary Flowers",
                 "level_3": [
                     {
@@ -133,7 +133,7 @@
                 "id": "id_2_3",
                 "image": "3",
                 "idHeader1": "",
-                "idHeader2": "3",
+                "selectColor": "3",
                 "name": "Morrison Valenzuela",
                 "level_3": [
                     {
@@ -163,7 +163,7 @@
                 "id": "id_3_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "idHeader2": "red",
+                "selectColor": "red",
                 "name": "",
                 "level_3": [
                     {
@@ -187,7 +187,7 @@
                 "id": "id_3_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "idHeader2": 999,
+                "selectColor": 999,
                 "name": "Hillary Flowers",
                 "level_3": [
                     {
@@ -211,7 +211,7 @@
                 "id": "id_3_3",
                 "image": "3",
                 "idHeader1": "",
-                "idHeader2": "Green",
+                "selectColor": "Green",
                 "name": "Morrison Valenzuela",
                 "level_3": [
                     {
@@ -241,7 +241,7 @@
                 "id": "id_4_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "idHeader2": "CAZ-0002222",
+                "selectColor": "CAZ-0002222",
                 "name": "",
                 "level_3": [
                     {
@@ -265,7 +265,7 @@
                 "id": "id_4_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "idHeader2": "Re$d",
+                "selectColor": "Re$d",
                 "name": "Hillary Flowers",
                 "level_3": [
                     {
@@ -289,7 +289,7 @@
                 "id": "id_4_3",
                 "image": "3",
                 "idHeader1": "",
-                "idHeader2": "BlueBlueBlueBlueBlue",
+                "selectColor": "BlueBlueBlueBlueBlue",
                 "name": "Morrison Valenzuela",
                 "level_3": [
                     {
