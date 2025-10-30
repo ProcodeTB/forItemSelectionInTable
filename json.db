@@ -2,14 +2,14 @@
     {
         "id": "id_1_10",
         "table": "table_1",
-        "level_2": [
+        "level_1": [
             {
                 "id": "id_1_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
                 "selectColor": "Transparent",
                 "name": "",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Bmw",
                         "model": "328i",
@@ -33,7 +33,7 @@
                 "idHeader1": "CAZ-00024244",
                 "selectColor": "Red Devil",
                 "name": "Yellow",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Symbols",
                         "model": "!@#$%^&*()_+*-<>..?/|;:",
@@ -57,7 +57,7 @@
                 "idHeader1": "",
                 "selectColor": null,
                 "name": "Morrison Valenzuela",
-                "level_3": [
+                "level_2": [
                     {
                         "make": null,
                         "model": null,
@@ -80,14 +80,14 @@
     {
         "id": "id_2_10",
         "table": "table_2",
-        "level_2": [
+        "level_1": [
             {
                 "id": "id_2_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
                 "selectColor": "Blue",
                 "name": "",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Toyota",
                         "model": "Corolla",
@@ -111,7 +111,7 @@
                 "idHeader1": "CAZ-00024244",
                 "selectColor": "",
                 "name": "Hillary Flowers",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Nissan",
                         "model": "Altima",
@@ -135,7 +135,7 @@
                 "idHeader1": "",
                 "selectColor": "3",
                 "name": "Morrison Valenzuela",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "",
                         "model": "",
@@ -158,14 +158,14 @@
     {
         "id": "id_3_10",
         "table": "table_3",
-        "level_2": [
+        "level_1": [
             {
                 "id": "id_3_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
                 "selectColor": "red",
                 "name": "",
-                "level_3": [
+                "level_2": [
                     {
                         "make": null,
                         "model": "Civic",
@@ -189,7 +189,7 @@
                 "idHeader1": "CAZ-00024244",
                 "selectColor": 999,
                 "name": "Hillary Flowers",
-                "level_3": [
+                "level_2": [
                     {
                         "make": 123,
                         "model": "Civic",
@@ -213,7 +213,7 @@
                 "idHeader1": "",
                 "selectColor": "Green",
                 "name": "Morrison Valenzuela",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Kia",
                         "model": "Soul",
@@ -236,14 +236,14 @@
     {
         "id": "id_4_10",
         "table": "table_4",
-        "level_2": [
+        "level_1": [
             {
                 "id": "id_4_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
                 "selectColor": "CAZ-0002222",
                 "name": "",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "Tesla",
                         "model": "Model 3",
@@ -267,7 +267,7 @@
                 "idHeader1": "CAZ-00024244",
                 "selectColor": "Re$d",
                 "name": "Hillary Flowers",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "   Ford  ",
                         "model": "Fiesta!!!",
@@ -291,7 +291,7 @@
                 "idHeader1": "",
                 "selectColor": "BlueBlueBlueBlueBlue",
                 "name": "Morrison Valenzuela",
-                "level_3": [
+                "level_2": [
                     {
                         "make": "ToyotaToyotaToyotaToyotaToyota",
                         "model": "CamryCamryCamryCamryCamry",
