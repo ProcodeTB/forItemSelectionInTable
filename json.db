@@ -2,12 +2,13 @@
     {
         "id": "id_1_10",
         "table": "table_1",
+        "fillHeader": "Transparent",
         "level_1": [
             {
                 "id": "id_1_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "selectColor": "Transparent",
+                "idHeader2": "Transparent",
                 "name": "",
                 "level_2": [
                     {
@@ -31,7 +32,7 @@
                 "id": "id_1_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "selectColor": "Red Devil",
+                "idHeader2": "Red Devil",
                 "name": "Yellow",
                 "level_2": [
                     {
@@ -55,8 +56,8 @@
                 "id": "id_1_3",
                 "image": "3",
                 "idHeader1": "",
-                "selectColor": null,
-                "name": "Morrison Valenzuela",
+                "idHeader2": null,
+                "name": "",
                 "level_2": [
                     {
                         "make": null,
@@ -80,12 +81,13 @@
     {
         "id": "id_2_10",
         "table": "table_2",
+        "fillHeader": "",
         "level_1": [
             {
                 "id": "id_2_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "selectColor": "Blue",
+                "idHeader2": "Blue",
                 "name": "",
                 "level_2": [
                     {
@@ -109,7 +111,7 @@
                 "id": "id_2_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "selectColor": "",
+                "idHeader2": "",
                 "name": "Hillary Flowers",
                 "level_2": [
                     {
@@ -133,7 +135,7 @@
                 "id": "id_2_3",
                 "image": "3",
                 "idHeader1": "",
-                "selectColor": "3",
+                "idHeader2": "3",
                 "name": "Morrison Valenzuela",
                 "level_2": [
                     {
@@ -158,12 +160,13 @@
     {
         "id": "id_3_10",
         "table": "table_3",
+        "fillHeader": 999,
         "level_1": [
             {
                 "id": "id_3_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "selectColor": "red",
+                "idHeader2": "red",
                 "name": "",
                 "level_2": [
                     {
@@ -187,7 +190,7 @@
                 "id": "id_3_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "selectColor": 999,
+                "idHeader2": 999,
                 "name": "Hillary Flowers",
                 "level_2": [
                     {
@@ -211,7 +214,7 @@
                 "id": "id_3_3",
                 "image": "3",
                 "idHeader1": "",
-                "selectColor": "Green",
+                "idHeader2": "Green",
                 "name": "Morrison Valenzuela",
                 "level_2": [
                     {
@@ -236,12 +239,13 @@
     {
         "id": "id_4_10",
         "table": "table_4",
+        "fillHeader": "Re$d",
         "level_1": [
             {
                 "id": "id_4_1",
                 "image": "1",
                 "idHeader1": "CAZ-0002222",
-                "selectColor": "CAZ-0002222",
+                "idHeader2": "CAZ-0002222",
                 "name": "",
                 "level_2": [
                     {
@@ -265,7 +269,7 @@
                 "id": "id_4_2",
                 "image": "2",
                 "idHeader1": "CAZ-00024244",
-                "selectColor": "Re$d",
+                "idHeader2": "Re$d",
                 "name": "Hillary Flowers",
                 "level_2": [
                     {
@@ -289,7 +293,7 @@
                 "id": "id_4_3",
                 "image": "3",
                 "idHeader1": "",
-                "selectColor": "BlueBlueBlueBlueBlue",
+                "idHeader2": "BlueBlueBlueBlueBlue",
                 "name": "Morrison Valenzuela",
                 "level_2": [
                     {
